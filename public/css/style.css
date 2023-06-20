@@ -1,0 +1,33 @@
+body {
+    font-size: 1.3em;
+    margin: 2%;
+}
+
+h1{
+    text-align: center;
+}
+nav{
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+ul{
+    list-style: none;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin: 1%;
+}
+
+a:hover{
+    font-size: 1.4em;
+    transition: .8s;
+    color: red;
+}
+
+.lista-proyectos{
+    background-color: rgba(186, 186, 186, 0.761);
+    border-radius: 20px;
+}
